@@ -5,15 +5,15 @@ The model was trained with **YOLOv8 (Ultralytics)** to recognize and analyze han
 
 ---
 
-## ⚙️ Features  
-- 🔍 High-accuracy detection of Arabic sign language gestures.  
-- 📸 Real-time detection using a webcam.  
-- 🚀 Powered by a fine-tuned YOLOv8 model trained on a custom dataset.  
-- 💡 Can be integrated into other applications such as instant translation or educational tools for people with hearing impairments.  
+##  Features  
+-  High-accuracy detection of Arabic sign language gestures.  
+-  Real-time detection using a webcam.  
+-  Powered by a fine-tuned YOLOv8 model trained on a custom dataset.  
+-  Can be integrated into other applications such as instant translation or educational tools for people with hearing impairments.  
 
 ---
 
-## 🧩 Technologies Used  
+##  Technologies Used  
 - Python  
 - OpenCV  
 - Ultralytics YOLOv8  
@@ -21,3 +21,4 @@ The model was trained with **YOLOv8 (Ultralytics)** to recognize and analyze han
 - Computer Vision  
 
 ---
+
